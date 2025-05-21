@@ -1,0 +1,5 @@
+git clone "ssh link"
+git add .
+git commit -m "add a file"
+git push origin main
+ 
